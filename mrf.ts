@@ -100,7 +100,7 @@ namespace RussianFont {
     * @param message строка символов
     * @param tm сколько мс. показывать каждую букву
     */
-    //% message.defl="МЫ ♥♥ ИНФОРМАТИКУ!!!"
+    //% message.defl=""
     //% tm.defl=50 tm.min=10 tm.max=200
     //% group="Message"
     //% block="show $message with delay $tm"
@@ -135,7 +135,7 @@ namespace RussianFont {
     * @param message строка символов
     * @param tm сколько мс. показывать каждую букву
     */
-    //% message.defl="МЫ ♥♥ ИНФОРМАТИКУ!!!"
+    //% message.defl=""
     //% tm.defl=50 tm.min=10 tm.max=200
     //% group="Message"
     //% block="show shadow $message with delay $tm"
